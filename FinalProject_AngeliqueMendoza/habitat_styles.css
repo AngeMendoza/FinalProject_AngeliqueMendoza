@@ -1,0 +1,11 @@
+@charset "utf-8";
+html{
+    background-color: aqua;
+}
+body{
+    height: 20px;
+}
+header > img{
+    float: left;
+
+}
